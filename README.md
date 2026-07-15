@@ -1,132 +1,107 @@
-<h1 align="center">Hi 👋, I'm Suraj</h1>
-<h3 align="center">Backend Developer | DevOps Engineer | B.Tech Final Year Student</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Suraj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Developer;DevOps+Engineer;Cloud+%7C+Docker+%7C+Kubernetes;AWS+%7C+Terraform+%7C+CI%2FCD;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+# 💫 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🎓 B.Tech Final Year Student
+
+💻 Backend Developer
+
+☁️ DevOps Enthusiast
+
+🚀 Cloud Native Learner
+
+⚡ Building scalable applications
+
+🐳 Docker • Kubernetes • AWS
+
+🌱 Currently learning Platform Engineering
+
+🎯 Goal → Software Engineer + DevOps Engineer
+
+---
+
+# 🚀 Tech Universe
 
 <p align="center">
-  Building scalable applications, automating infrastructure, and learning cloud technologies every day.
+
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,express,nextjs,react,mongodb,postgres,prisma,redis,docker,kubernetes,terraform,aws,jenkins,linux,git,github,vscode,postman,bash&perline=7"/>
+
 </p>
 
 ---
 
-# 🚀 About Me
+# ⚙️ DevOps Workflow
 
-- 🎓 B.Tech Final Year Student
-- 💻 Backend Developer (Node.js, Express.js)
-- ⚙️ DevOps Enthusiast
-- ☁️ Learning AWS, Kubernetes & Terraform
-- 🐳 Love working with Docker and CI/CD
-- 🌱 Currently building real-world cloud native projects
-- 🎯 Goal: Become a Backend & DevOps Engineer
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Tools
-
-Git • GitHub • Postman • VS Code • Nginx • Redis • SonarQube • ArgoCD
+```text
+Code
+ │
+ ▼
+GitHub
+ │
+ ▼
+Jenkins CI
+ │
+ ▼
+SonarQube
+ │
+ ▼
+Trivy Scan
+ │
+ ▼
+Docker Build
+ │
+ ▼
+Docker Hub
+ │
+ ▼
+Terraform
+ │
+ ▼
+AWS
+ │
+ ▼
+Kubernetes
+ │
+ ▼
+Monitoring
+```
 
 ---
 
 # 🚀 Featured Projects
 
-## 📌 Planova
-A Jira-like Project Management System built with modern web technologies.
-
-**Tech Stack**
-
-- Next.js
-- Prisma ORM
-- Neon PostgreSQL
-- Clerk Authentication
-- Tailwind CSS
-- DnD Kit
-
-### Features
-
-- Authentication
-- Organization Management
-- Sprint Planning
-- Kanban Board
-- Drag & Drop Tasks
-- Issue Tracking
-- Team Collaboration
+| Project | Description |
+|----------|-------------|
+| 📌 Planova | Jira-like Project Management System |
+| ☁️ DevOps Pipeline | Jenkins + Docker + Kubernetes + Terraform |
+| 🌍 Wanderlust | Travel Booking Platform |
+| 🤖 Career AI | AI Resume & Interview Platform |
 
 ---
 
-## ☁️ DevOps CI/CD Pipeline
-
-Automated application deployment using:
-
-- Jenkins
-- Docker
-- Kubernetes
-- Terraform
-- AWS
-- SonarQube
-- Trivy
-- OWASP Dependency Check
-
----
-
-## 🌍 Wanderlust
-
-A Full Stack Travel Booking Platform.
-
-**Features**
-
-- Authentication
-- Hotel Listings
-- Booking System
-- Reviews
-- Image Upload
-- Responsive Design
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamsnyg&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamsnyg&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsnyg&theme=tokyonight"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsnyg&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsnyg&layout=compact&theme=tokyonight"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsnyg&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -136,13 +111,13 @@ A Full Stack Travel Booking Platform.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamsnyg&theme=tokyonight&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iamsnyg&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -152,16 +127,83 @@ A Full Stack Travel Booking Platform.
 
 ---
 
-# 📫 Connect with Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: YOUR_EMAIL
-- 🌐 Portfolio: https://your-portfolio.com
-
----
+# 🐍 Contribution Snake
 
 <p align="center">
 
-### 🚀 "Automating Today. Building Tomorrow."
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
+
+---
+
+# ⚡ Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsnyg&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Productivity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamsnyg&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamsnyg&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ☁️ Cloud Journey
+
+```text
+☁️ AWS
+██████████████░░░░ 80%
+
+🐳 Docker
+█████████████████░ 90%
+
+☸ Kubernetes
+██████████████░░░░ 75%
+
+Terraform
+█████████████░░░░░ 70%
+
+Jenkins
+████████████████░░ 85%
+```
+
+---
+
+# 🌍 Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/iamsnyg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 *"Build • Automate • Deploy • Scale"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
+
+</div>
