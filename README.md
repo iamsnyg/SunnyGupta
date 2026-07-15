@@ -1,1213 +1,195 @@
+````markdown
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,30:1D4ED8,70:2563EB,100:06B6D4&text=Suraj&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # 👋 Hi, I'm Suraj
 
-<div align="center">
+### Backend Developer • DevOps Engineer • Cloud Enthusiast
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1026,50:2563EB,100:06B6D4&text=Suraj%20%7C%20Backend%20Developer%20%7C%20DevOps&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;Automating+Infrastructure;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;Open+Source+Learner+🚀"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=Backend+Developer;DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins;Always+Learning+🚀)](https://git.io/typing-svg)
+<p>
 
-![](https://komarev.com/ghpvc/?username=iamsnyg&style=for-the-badge&color=blue)
-![](https://img.shields.io/github/followers/iamsnyg?style=for-the-badge)
-![](https://img.shields.io/github/stars/iamsnyg?affiliations=OWNER&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=iamsnyg&style=for-the-badge&color=2563EB"/>
+
+<img src="https://img.shields.io/github/followers/iamsnyg?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/iamsnyg?affiliations=OWNER&style=for-the-badge"/>
+
+</p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212750719-f7e6d6a7-6d8f-4e91-8f71-6e2b37d70a57.gif" width="100%">
 
-- 🎓 B.Tech Final Year Student
-- 💻 Backend Developer
-- ⚙️ DevOps Enthusiast
-- ☁️ AWS • Docker • Kubernetes • Terraform
-- 🌱 Learning GitOps & Platform Engineering
-- 🎯 Goal: Backend + DevOps Engineer
+# 💫 About Me
 
-# 🛠️ Tech Stack
+<table>
+<tr>
 
-<p align="center">
+<td width="60%">
+
+🚀 Backend Developer passionate about scalable applications.
+
+☁️ DevOps enthusiast focused on automation & cloud.
+
+🐳 Building production-ready applications using Docker, Kubernetes & AWS.
+
+⚡ Love solving real-world engineering challenges.
+
+🎯 Goal: Become a Cloud & Platform Engineer.
+
+</td>
+
+<td>
+
+<img width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,nextjs,react,tailwind,mongodb,postgres,prisma,redis,docker,kubernetes,terraform,aws,jenkins,linux,git,github,bash,nginx,vscode,postman&perline=8"/>
-</p>
 
-# ☁️ DevOps Workflow
+</div>
+
+---
+
+# ⚙️ DevOps Workflow
 
 ```mermaid
 flowchart LR
-A[Developer]-->B[GitHub]
-B-->C[Jenkins]
-C-->D[SonarQube]
-D-->E[Trivy]
-E-->F[Docker]
-F-->G[Docker Hub]
-G-->H[Terraform]
-H-->I[AWS]
-I-->J[Kubernetes]
-J-->K[Nginx]
-K-->L[Production]
+
+A[💻 Code]
+-->
+
+B[GitHub]
+
+-->
+
+C[Jenkins CI]
+
+-->
+
+D[Docker]
+
+-->
+
+E[Docker Hub]
+
+-->
+
+F[Terraform]
+
+-->
+
+G[AWS]
+
+-->
+
+H[Kubernetes]
+
+-->
+
+I[Production 🚀]
 ```
 
-# 🏗️ Cloud Architecture
+---
+
+# ☁️ Cloud Architecture
 
 ```mermaid
 graph TD
-User-->CDN
-CDN-->Nginx
-Nginx-->Frontend
-Frontend-->Backend
-Backend-->Redis
-Backend-->MongoDB
-Backend-->S3
-Backend-->AWS
+
+User --> CDN
+
+CDN --> Nginx
+
+Nginx --> Frontend
+
+Frontend --> Backend
+
+Backend --> Redis
+
+Backend --> PostgreSQL
+
+Backend --> AWS
+
+Backend --> Monitoring
 ```
+
+---
 
 # 🚀 Featured Projects
 
-## 📌 Planova
-- Jira-like Project Management
-- Next.js + Prisma + Clerk + PostgreSQL
-- Kanban Board & Sprint Planning
+<div align="center">
 
-## 🌍 Wanderlust
-- MERN Travel Platform
-- Authentication
-- Booking & Reviews
+| 🚀 Project | Description | Stack |
+|:---------:|-------------|-------|
+| 📌 **Planova** | Jira-inspired project management platform with Kanban board and sprint planning | Next.js • Prisma • Clerk |
+| ☁️ **DevOps Pipeline** | Complete CI/CD pipeline with Infrastructure as Code | Jenkins • Docker • Terraform • Kubernetes |
+| 🌍 **Wanderlust** | Full Stack Travel Booking Platform | MERN Stack |
+| 🤖 **Career AI** | AI-powered Resume & Interview Platform | Next.js • AI • PostgreSQL |
 
-## ☁️ DevOps Pipeline
-- Jenkins
-- Docker
-- Terraform
-- Kubernetes
-- AWS
-- SonarQube
-- Trivy
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamsnyg&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://streak-stats.demolab.com?user=iamsnyg&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsnyg&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsnyg&theme=tokyo-night"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iamsnyg&theme=tokyonight&no-frame=true&column=4"/>
-</p>
-
-# 🎯 Learning Roadmap
-
-| Technology | Status |
-|------------|--------|
-| Linux | ✅ |
-| Git | ✅ |
-| Docker | ✅ |
-| Jenkins | ✅ |
-| Terraform | ✅ |
-| AWS | ✅ |
-| Kubernetes | 🚀 |
-| ArgoCD | 📖 |
-| Prometheus | 📖 |
-| Grafana | 📖 |
-
-
-## 💡 DevOps Notes 1
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
+</div>
 
 ---
 
-## 💡 DevOps Notes 2
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 3
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 4
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 5
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 6
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 7
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 8
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 9
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 10
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 11
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 12
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 13
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 14
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 15
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 16
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 17
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 18
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 19
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 20
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 21
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 22
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 23
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 24
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 25
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 26
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 27
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 28
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 29
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 30
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 31
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 32
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 33
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 34
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 35
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 36
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 37
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 38
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 39
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-## 💡 DevOps Notes 40
-
-### Principle
-- Automate repetitive work.
-- Everything should be version controlled.
-- Infrastructure as Code.
-- Monitor and observe applications.
-- Secure pipelines by default.
-
-### Commands
-```bash
-docker ps
-kubectl get pods -A
-terraform plan
-terraform apply
-aws sts get-caller-identity
-```
-
-### Best Practices
-- Small commits
-- CI before CD
-- Immutable deployments
-- Containerize applications
-- Backup and rollback strategy
-
----
-
-# 📫 Connect
-
-- GitHub: https://github.com/iamsnyg
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Portfolio: https://your-portfolio.com
-- Email: your@email.com
-
-# 🐍 Contribution Snake
-
-Create a GitHub Actions workflow using Platane/snk to generate the snake SVG automatically.
+# 📊 GitHub Analytics
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:06B6D4,50:2563EB,100:0B1026"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamsnyg&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=iamsnyg&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsnyg&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/iamsnyg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR-EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://your-portfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ "Build • Automate • Deploy • Scale"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:06B6D4,50:2563EB,100:0F172A"/>
+
+</div>
+````
