@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,30:1D4ED8,70:2563EB,100:06B6D4&text=Suraj&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -192,4 +192,4 @@ Backend --> Monitoring
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:06B6D4,50:2563EB,100:0F172A"/>
 
 </div>
-````
+
