@@ -1,195 +1,129 @@
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Sunny Gupta
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,30:1D4ED8,70:2563EB,100:06B6D4&text=Suraj&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-# 👋 Hi, I'm Suraj
-
-### Backend Developer • DevOps Engineer • Cloud Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;Automating+Infrastructure;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;Open+Source+Learner+🚀"/>
-
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=iamsnyg&style=for-the-badge&color=2563EB"/>
-
-<img src="https://img.shields.io/github/followers/iamsnyg?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/iamsnyg?affiliations=OWNER&style=for-the-badge"/>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2200&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+%26+Cloud+Enthusiast;CI%2FCD+Automation+Lover;Building+Scalable+Digital+Products" alt="Typing SVG" />
 </p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/iamsnyg"><img src="https://img.shields.io/github/followers/iamsnyg?style=for-the-badge&color=06b6d4&labelColor=0f172a&logo=github&label=Followers" /></a>
+  <a href="https://github.com/iamsnyg?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-8b5cf6?style=for-the-badge&labelColor=0f172a&logo=github" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&labelColor=0f172a&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-f43f5e?style=for-the-badge&labelColor=0f172a&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212750719-f7e6d6a7-6d8f-4e91-8f71-6e2b37d70a57.gif" width="100%">
+## 🧑‍🚀 About Me
 
-# 💫 About Me
-
-<table>
-<tr>
-
-<td width="60%">
-
-🚀 Backend Developer passionate about scalable applications.
-
-☁️ DevOps enthusiast focused on automation & cloud.
-
-🐳 Building production-ready applications using Docker, Kubernetes & AWS.
-
-⚡ Love solving real-world engineering challenges.
-
-🎯 Goal: Become a Cloud & Platform Engineer.
-
-</td>
-
-<td>
-
-<img width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-</td>
-
-</tr>
-</table>
+```yaml
+name: Sunny Gupta
+title: Full Stack Developer | DevOps Enthusiast
+focus:
+  - Scalable Web Apps
+  - Cloud & DevOps
+  - CI/CD Automation
+currently_learning:
+  - Kubernetes in Production
+  - Terraform & IaC
+  - Advanced System Design
+```
 
 ---
 
-# 🛠 Tech Stack
+## 🧰 Tech Arsenal
 
-<div align="center">
+### 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash)
 
-<img src="https://skillicons.dev/icons?i=java,js,nodejs,express,nextjs,react,tailwind,mongodb,postgres,prisma,redis,docker,kubernetes,terraform,aws,jenkins,linux,git,github,bash,nginx,vscode,postman&perline=8"/>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
 
-</div>
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/Jenkins-111827?style=for-the-badge&logo=jenkins)
+![Nginx](https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-111827?style=for-the-badge&logo=ansible)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
 
 ---
 
-# ⚙️ DevOps Workflow
+## ⚡ DevOps Workflow
 
 ```mermaid
 flowchart LR
-
-A[💻 Code]
--->
-
-B[GitHub]
-
--->
-
-C[Jenkins CI]
-
--->
-
-D[Docker]
-
--->
-
-E[Docker Hub]
-
--->
-
-F[Terraform]
-
--->
-
-G[AWS]
-
--->
-
-H[Kubernetes]
-
--->
-
-I[Production 🚀]
+    A[Code & Commit] --> B[CI Pipeline]
+    B --> C[Test + Lint]
+    C --> D[Build Docker Image]
+    D --> E[Push Artifact]
+    E --> F[Deploy to Cloud/K8s]
+    F --> G[Observe + Monitor]
+    G --> H[Scale + Improve]
 ```
 
 ---
 
-# ☁️ Cloud Architecture
+## 🌟 Featured Projects
 
-```mermaid
-graph TD
+### 🔹 Project One
+Short description with impact and your role.  
+🔗 [Live Demo](https://example.com) • 📁 [Repository](https://github.com/iamsnyg/project-one)
 
-User --> CDN
+### 🔹 Project Two
+Short description with impact and your role.  
+🔗 [Live Demo](https://example.com) • 📁 [Repository](https://github.com/iamsnyg/project-two)
 
-CDN --> Nginx
-
-Nginx --> Frontend
-
-Frontend --> Backend
-
-Backend --> Redis
-
-Backend --> PostgreSQL
-
-Backend --> AWS
-
-Backend --> Monitoring
-```
+### 🔹 Project Three
+Short description with impact and your role.  
+🔗 [Live Demo](https://example.com) • 📁 [Repository](https://github.com/iamsnyg/project-three)
 
 ---
 
-# 🚀 Featured Projects
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iamsnyg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsnyg&theme=tokyonight&hide_border=true" />
+</p>
 
-| 🚀 Project | Description | Stack |
-|:---------:|-------------|-------|
-| 📌 **Planova** | Jira-inspired project management platform with Kanban board and sprint planning | Next.js • Prisma • Clerk |
-| ☁️ **DevOps Pipeline** | Complete CI/CD pipeline with Infrastructure as Code | Jenkins • Docker • Terraform • Kubernetes |
-| 🌍 **Wanderlust** | Full Stack Travel Booking Platform | MERN Stack |
-| 🤖 **Career AI** | AI-powered Resume & Interview Platform | Next.js • AI • PostgreSQL |
-
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsnyg&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🌍 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+</p>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamsnyg&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=iamsnyg&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsnyg&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamsnyg&label=Profile%20Views&color=06b6d4&style=flat" alt="profile views" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/iamsnyg">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR-EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ "Build • Automate • Deploy • Scale"
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:06B6D4,50:2563EB,100:0F172A"/>
-
-</div>
-
+<p align="center">
+  <b>💙 Thanks for visiting my profile!</b><br/>
+  <i>Build • Automate • Deploy • Scale</i>
+</p>
